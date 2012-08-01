@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.rap.ui.internal.launch.rwt.RWTLaunchConfigType">
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TabrisSandbox"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value=""/>
+<stringAttribute key="org.eclipse.rap.launch.rwt.browserMode" value="INTERNAL"/>
+<stringAttribute key="org.eclipse.rap.launch.rwt.entryPoint" value="org.tobbaumann.tabris.sandbox.EntryPoint"/>
+<stringAttribute key="org.eclipse.rap.launch.rwt.launchMode" value="WEB_XML"/>
+<booleanAttribute key="org.eclipse.rap.launch.rwt.openBrowser" value="true"/>
+<intAttribute key="org.eclipse.rap.launch.rwt.port" value="9090"/>
+<stringAttribute key="org.eclipse.rap.launch.rwt.servletPath" value="sandbox"/>
+<booleanAttribute key="org.eclipse.rap.launch.rwt.useManualPort" value="true"/>
+<stringAttribute key="org.eclipse.rap.launch.rwt.webAppLocation" value=""/>
+<stringAttribute key="org.eclipse.rap.launch.rwt.webXmlLocation" value="/TabrisSandbox/WebContent/WEB-INF/web.xml"/>
+</launchConfiguration>

@@ -1,0 +1,35 @@
+
+
+Table.sandbox {
+  font: 12px Verdana, "Lucida Sans", Arial, Helvetica, sans-serif;
+  background-color: #ffffff;
+  background-image: none;
+  color: #4a4a4a;
+  border: none;
+}
+
+Table[BORDER].sandbox {
+  border: 1px solid #bdbdbd;
+}
+
+TableColumn.sandbox {
+  font: 12px Verdana, "Lucida Sans", Arial, Helvetica, sans-serif;
+  background-color: #f0f0f0;
+  padding: 4px 3px 4px 3px;
+  background-image: gradient(
+    linear, left top, left bottom,
+    from( #42639C ),
+    to( #B5C6DE )
+  );
+  color: inherit;
+  border-bottom: 1px solid #bdbdbd;
+  text-shadow: 0 1px 0 #ffffff;
+}
+
+TableColumn.sandbox:hover {
+  background-image: gradient(
+    linear, left top, left bottom,
+    from( #B5C6DE ),
+    to( #42639C )
+  );
+}
